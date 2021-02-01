@@ -1,0 +1,1 @@
+a series of scriprts to collect data from top 50 songs of spotify 
